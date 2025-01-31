@@ -1,0 +1,10 @@
+{
+       "agendamentos": [
+         {
+           "id": 1,
+           "cliente": "Maria",
+           "servico": "Corte de cabelo",
+           "data": "2024-01-01T10:00:00"
+         }
+       ]
+     }
